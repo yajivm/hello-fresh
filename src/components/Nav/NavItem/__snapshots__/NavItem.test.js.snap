@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavItem should render component 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ fEEeGt"
+    data-testid="ATitle"
+    to="path"
+  >
+    ATitle
+  </div>
+</div>
+`;

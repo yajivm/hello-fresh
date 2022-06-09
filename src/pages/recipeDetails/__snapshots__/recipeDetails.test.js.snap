@@ -1,0 +1,621 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Recipe Details should render component 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ cWPtQe"
+  >
+    <div
+      class="sc-ksZaOG fTVgaS"
+    >
+      <ul
+        class="sc-jSMfEi jhLFCE"
+      >
+        <li
+          class="sc-gKXOVf iWtTFq"
+          data-testid="recipe-bread-crumb"
+        >
+          Recipies
+        </li>
+        <li
+          class="sc-gKXOVf ckmyxU"
+        >
+          Japanese-Style Beef & Veggies
+        </li>
+      </ul>
+    </div>
+    <div
+      class="sc-dkzDqf"
+    >
+      <img
+        alt="recipe-banner-image"
+        class="sc-hKMtZM gJrAbn"
+        data-testid="banner-image"
+        height="300"
+        src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/japanese-style-beef-sesame-veggies-cb7e5629.jpg"
+      />
+    </div>
+    <div
+      class="sc-gsnTZi ezgmav"
+    >
+      <div
+        class="sc-ftvSup haXJOe"
+      >
+        <div
+          class="sc-papXJ ksiAwV"
+        >
+          <h2
+            class="sc-eCYdqJ jVccvm"
+            data-testid="title"
+          >
+            Japanese-Style Beef & Veggies
+          </h2>
+          <p
+            class="sc-eCYdqJ jVccvm"
+            data-testid="description"
+          >
+            with Rice & Coconut Sweet Chilli Mayo
+          </p>
+        </div>
+        <div
+          class="sc-jqUVSM hxUOpr"
+        >
+          <div
+            class="sc-kDDrLX gyyBjO"
+          >
+            <p
+              class="sc-eCYdqJ hCpoza"
+              data-testid="longDescription"
+            >
+              This side dish will be sure to steal the main show tonight! Layer with a base of lemon yoghurt, add dukkah roasted sweet potato and onion and top with fresh mint and flaked almonds for one show-stopping combo.
+            </p>
+            <div
+              class="sc-iBkjds"
+            >
+              <span
+                class="sc-eCYdqJ dkwazc"
+                data-testid=""
+              >
+                Tags:
+              </span>
+              <ul
+                class="sc-jSMfEi kWqKTp"
+              >
+                <li
+                  class="sc-gKXOVf ckmyxU"
+                >
+                  Not Suitable for Coeliacs
+                </li>
+                <li
+                  class="sc-gKXOVf ckmyxU"
+                >
+                  Naturally Gluten-Free
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div
+            class="sc-kDDrLX ddxIOQ"
+          >
+            <ul
+              class="sc-jSMfEi gTYGsZ"
+            >
+              <li
+                class="sc-gKXOVf bmioJG"
+              >
+                Preparation Time
+              </li>
+              <li
+                class="sc-gKXOVf ckmyxU"
+              >
+                30 minutes
+              </li>
+            </ul>
+            <ul
+              class="sc-jSMfEi gTYGsZ"
+            >
+              <li
+                class="sc-gKXOVf bmioJG"
+              >
+                Cooking difficulty
+              </li>
+              <li
+                class="sc-gKXOVf ckmyxU"
+              >
+                Easy
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jqUVSM hxUOpr"
+      >
+        <div
+          class="sc-kDDrLX gyyBjO"
+        >
+          <div
+            class="sc-ftvSup haXJOe"
+          >
+            <div
+              class="sc-iqcoie"
+            >
+              <h2
+                class="sc-eCYdqJ jVccvm"
+                data-testid="ingrediants-title"
+                font-size="28"
+              >
+                Ingredients
+              </h2>
+              <div
+                class="sc-crXcEl jAuCoJ"
+              >
+                <div
+                  class="sc-evZas bdsctm"
+                >
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-0-quantity"
+                  >
+                    3
+                  </p>
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-0"
+                  >
+                    sweet potato
+                  </p>
+                </div>
+                <div
+                  class="sc-evZas bdsctm"
+                >
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-1-quantity"
+                  >
+                    1 sachet
+                  </p>
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-1"
+                  >
+                    dukkah
+                  </p>
+                </div>
+                <div
+                  class="sc-evZas bdsctm"
+                >
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-2-quantity"
+                  >
+                    1
+                  </p>
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-2"
+                  >
+                    lemon
+                  </p>
+                </div>
+                <div
+                  class="sc-evZas bdsctm"
+                >
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-3-quantity"
+                  >
+                    1
+                  </p>
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-3"
+                  >
+                    long red chilli
+                  </p>
+                </div>
+                <div
+                  class="sc-evZas bdsctm"
+                >
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-4-quantity"
+                  >
+                    1
+                  </p>
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-4"
+                  >
+                    red onion
+                  </p>
+                </div>
+                <div
+                  class="sc-evZas bdsctm"
+                >
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-5-quantity"
+                  >
+                    1 packet
+                  </p>
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-5"
+                  >
+                    flaked almonds
+                  </p>
+                </div>
+                <div
+                  class="sc-evZas bdsctm"
+                >
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-6-quantity"
+                  >
+                    1
+                  </p>
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-6"
+                  >
+                    mint
+                  </p>
+                </div>
+                <div
+                  class="sc-evZas bdsctm"
+                >
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-7-quantity"
+                  >
+                    1 packet
+                  </p>
+                  <p
+                    class="sc-eCYdqJ jVccvm"
+                    data-testid="ingrediant-name-7"
+                  >
+                    Greek-style yoghurt
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-kDDrLX ddxIOQ"
+        >
+          <div
+            class="sc-ftvSup haXJOe"
+          >
+            <div
+              class="sc-iqcoie"
+            >
+              <div
+                class="sc-iBkjds"
+              >
+                <h3
+                  class="sc-eCYdqJ dkwazc"
+                  data-testid=""
+                >
+                  Nutritional Values
+                </h3>
+                <ul
+                  class="sc-jSMfEi uCzug"
+                >
+                  <li
+                    class="sc-gKXOVf bmioJG"
+                  >
+                    Energy (kJ)
+                  </li>
+                  <li
+                    class="sc-gKXOVf ckmyxU"
+                  >
+                    0 kJ
+                  </li>
+                </ul>
+                <ul
+                  class="sc-jSMfEi uCzug"
+                >
+                  <li
+                    class="sc-gKXOVf bmioJG"
+                  >
+                    Energy (kJ)
+                  </li>
+                  <li
+                    class="sc-gKXOVf ckmyxU"
+                  >
+                    1864 kJ
+                  </li>
+                </ul>
+                <ul
+                  class="sc-jSMfEi uCzug"
+                >
+                  <li
+                    class="sc-gKXOVf bmioJG"
+                  >
+                    Fat
+                  </li>
+                  <li
+                    class="sc-gKXOVf ckmyxU"
+                  >
+                    16.1 g
+                  </li>
+                </ul>
+                <ul
+                  class="sc-jSMfEi uCzug"
+                >
+                  <li
+                    class="sc-gKXOVf bmioJG"
+                  >
+                    of which saturates
+                  </li>
+                  <li
+                    class="sc-gKXOVf ckmyxU"
+                  >
+                    3 g
+                  </li>
+                </ul>
+                <ul
+                  class="sc-jSMfEi uCzug"
+                >
+                  <li
+                    class="sc-gKXOVf bmioJG"
+                  >
+                    Carbohydrate
+                  </li>
+                  <li
+                    class="sc-gKXOVf ckmyxU"
+                  >
+                    55.2 g
+                  </li>
+                </ul>
+                <ul
+                  class="sc-jSMfEi uCzug"
+                >
+                  <li
+                    class="sc-gKXOVf bmioJG"
+                  >
+                    of which sugars
+                  </li>
+                  <li
+                    class="sc-gKXOVf ckmyxU"
+                  >
+                    29.1 g
+                  </li>
+                </ul>
+                <ul
+                  class="sc-jSMfEi uCzug"
+                >
+                  <li
+                    class="sc-gKXOVf bmioJG"
+                  >
+                    Dietary Fibre
+                  </li>
+                  <li
+                    class="sc-gKXOVf ckmyxU"
+                  >
+                    0 g
+                  </li>
+                </ul>
+                <ul
+                  class="sc-jSMfEi uCzug"
+                >
+                  <li
+                    class="sc-gKXOVf bmioJG"
+                  >
+                    Protein
+                  </li>
+                  <li
+                    class="sc-gKXOVf ckmyxU"
+                  >
+                    13.2 g
+                  </li>
+                </ul>
+                <ul
+                  class="sc-jSMfEi uCzug"
+                >
+                  <li
+                    class="sc-gKXOVf bmioJG"
+                  >
+                    Cholesterol
+                  </li>
+                  <li
+                    class="sc-gKXOVf ckmyxU"
+                  >
+                    0 mg
+                  </li>
+                </ul>
+                <ul
+                  class="sc-jSMfEi uCzug"
+                >
+                  <li
+                    class="sc-gKXOVf bmioJG"
+                  >
+                    Sodium
+                  </li>
+                  <li
+                    class="sc-gKXOVf ckmyxU"
+                  >
+                    543 mg
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-ftvSup haXJOe"
+      >
+        <div
+          class="sc-iBkjds"
+        >
+          <h3
+            class="sc-eCYdqJ dkwazc"
+            data-testid=""
+            font-size="28"
+          >
+            Utensils
+          </h3>
+          <ul
+            class="sc-jSMfEi kSeqsy"
+          >
+            <li
+              class="sc-gKXOVf ckmyxU"
+            >
+              Baking Paper
+            </li>
+            <li
+              class="sc-gKXOVf ckmyxU"
+            >
+              Baking Tray
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div
+        class="sc-ftvSup haXJOe"
+      >
+        <div
+          class="sc-iBkjds"
+        >
+          <h3
+            class="sc-eCYdqJ dkwazc"
+            data-testid=""
+            font-size="28"
+          >
+            Instructions
+          </h3>
+          <div
+            class="sc-jqUVSM QrKyo"
+          >
+            <div
+              class="sc-kDDrLX gUGmjP"
+            >
+              <img
+                alt=""
+                class="sc-hKMtZM gJrAbn"
+                data-testid=""
+                src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/japanese-style-beef-sesame-veggies-cb7e5629.jpg"
+              />
+            </div>
+            <div
+              class="sc-kDDrLX gyyBjO"
+            >
+              <div
+                class="sc-breuTD jIEiBj"
+              >
+                <p
+                  class="sc-eCYdqJ jVccvm"
+                  data-testid=""
+                >
+                  Preheat the oven to 220°C/200°C fan-forced. Cut the sweet potato (unpeeled) into wedges. Cut the red onion into 2cm wedges. Place the sweet potato and onion on an oven tray lined with baking paper. Drizzle with olive oil and season with salt and pepper. Toss to coat and sprinkle with the dukkah. Roast until tender, 25-30 minutes.
+                </p>
+                <p
+                  class="sc-eCYdqJ jVccvm"
+                  data-testid=""
+                >
+                  Tips: 
+                  Don’t worry if your onion gets a little charred during cooking. It adds to the flavour!
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-jqUVSM QrKyo"
+          >
+            <div
+              class="sc-kDDrLX gUGmjP"
+            >
+              <img
+                alt=""
+                class="sc-hKMtZM gJrAbn"
+                data-testid=""
+                src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/japanese-style-beef-sesame-veggies-cb7e5629.jpg"
+              />
+            </div>
+            <div
+              class="sc-kDDrLX gyyBjO"
+            >
+              <div
+                class="sc-breuTD jIEiBj"
+              >
+                <p
+                  class="sc-eCYdqJ jVccvm"
+                  data-testid=""
+                >
+                  While the veggies are roasting, heat a small frying pan over a medium-high heat. Add the flaked almonds and toast until golden, 2-3 minutes. Transfer to a plate and set aside.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-jqUVSM QrKyo"
+          >
+            <div
+              class="sc-kDDrLX gUGmjP"
+            >
+              <img
+                alt=""
+                class="sc-hKMtZM gJrAbn"
+                data-testid=""
+                src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/japanese-style-beef-sesame-veggies-cb7e5629.jpg"
+              />
+            </div>
+            <div
+              class="sc-kDDrLX gyyBjO"
+            >
+              <div
+                class="sc-breuTD jIEiBj"
+              >
+                <p
+                  class="sc-eCYdqJ jVccvm"
+                  data-testid=""
+                >
+                  When the veggies have 5 minutes remaining, slice the lemon in half. Pick and roughly chop the mint leaves. Thinly slice the long red chilli (if using). In a small bowl combine the Greek yoghurt, a drizzle of olive oil and a generous squeeze of lemon juice. Season to taste.
+                </p>
+                <p
+                  class="sc-eCYdqJ jVccvm"
+                  data-testid=""
+                >
+                  Tips: 
+                  Add more or less lemon juice to taste.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-jqUVSM QrKyo"
+          >
+            <div
+              class="sc-kDDrLX gUGmjP"
+            >
+              <img
+                alt=""
+                class="sc-hKMtZM gJrAbn"
+                data-testid=""
+                src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/japanese-style-beef-sesame-veggies-cb7e5629.jpg"
+              />
+            </div>
+            <div
+              class="sc-kDDrLX gyyBjO"
+            >
+              <div
+                class="sc-breuTD jIEiBj"
+              >
+                <p
+                  class="sc-eCYdqJ jVccvm"
+                  data-testid=""
+                >
+                  Spread the lemon yoghurt over a serving plate. Top with the dukkah roasted sweet potato and onion. Drizzle with the honey. Garnish with the flaked almonds, mint and chilli (if using).
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

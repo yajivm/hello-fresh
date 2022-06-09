@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card should render component 1`] = `
+<div>
+  <div
+    class="sc-gKXOVf hdSzut"
+    data-testid="0"
+  >
+    <div
+      class="sc-iBkjds"
+      data-testid="card-content-0"
+    >
+      <img
+        alt="card-image-0"
+        class="sc-bczRLJ blDScb"
+        data-testid="card-image-0"
+        src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/garlic-herb-beef-burger-eeb7543e.jpg"
+      />
+      <div
+        class="sc-gsnTZi hhwjBW"
+      >
+        <h3
+          class="sc-dkzDqf knkAIX"
+          data-testid="card-title-0"
+        >
+          Garlic & Herb Beef Burger with Fries
+        </h3>
+        <div
+          class="sc-hKMtZM"
+          data-testid="card-description-0"
+        >
+          with Apple Slaw, BBQ Mayo & Almonds
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

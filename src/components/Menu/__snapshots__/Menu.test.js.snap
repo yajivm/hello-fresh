@@ -1,0 +1,1054 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu should render component 1`] = `
+<div>
+  <div
+    class="sc-ftvSup hpKqrZ"
+  >
+    <div
+      class="sc-papXJ fkdrml"
+    >
+      <div
+        class="sc-jqUVSM cWKDKa"
+      >
+        <div
+          class="sc-gKXOVf hUApTs"
+          data-testid="0"
+        >
+          <div
+            class="sc-eCYdqJ bjhUVy"
+          >
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="delete-ic-0"
+            >
+              <svg
+                fill="currentColor"
+                height="1.5em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1.5em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M360 184h-8c4.4 0 8-3.6 8-8v8h304v-8c0 4.4 3.6 8 8 8h-8v72h72v-80c0-35.3-28.7-64-64-64H352c-35.3 0-64 28.7-64 64v80h72v-72zm504 72H160c-17.7 0-32 14.3-32 32v32c0 4.4 3.6 8 8 8h60.4l24.7 523c1.6 34.1 29.8 61 63.9 61h454c34.2 0 62.3-26.8 63.9-61l24.7-523H888c4.4 0 8-3.6 8-8v-32c0-17.7-14.3-32-32-32zM731.3 840H292.7l-24.2-512h487l-24.2 512z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="edit-ic-0"
+            >
+              <svg
+                fill="currentColor"
+                height="1.2em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1.2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+                <path
+                  d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a.996.996 0 000-1.41l-2.34-2.34a.996.996 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-iBkjds"
+            data-testid="card-content-0"
+          >
+            <img
+              alt="card-image-0"
+              class="sc-bczRLJ blDScb"
+              data-testid="card-image-0"
+              src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/pesto-parmesan-crusted-chicken-5f50e32e.jpg"
+            />
+            <div
+              class="sc-gsnTZi hhwjBW"
+            >
+              <h3
+                class="sc-dkzDqf knkAIX"
+                data-testid="card-title-0"
+              >
+                Easy Pesto-Crusted Chicken
+              </h3>
+              <div
+                class="sc-hKMtZM"
+                data-testid="card-description-0"
+              >
+                with Roast Sweet Potato & Rainbow Salad
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jqUVSM cWKDKa"
+      >
+        <div
+          class="sc-gKXOVf hUApTs"
+          data-testid="1"
+        >
+          <div
+            class="sc-eCYdqJ bjhUVy"
+          >
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="delete-ic-1"
+            >
+              <svg
+                fill="currentColor"
+                height="1.5em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1.5em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M360 184h-8c4.4 0 8-3.6 8-8v8h304v-8c0 4.4 3.6 8 8 8h-8v72h72v-80c0-35.3-28.7-64-64-64H352c-35.3 0-64 28.7-64 64v80h72v-72zm504 72H160c-17.7 0-32 14.3-32 32v32c0 4.4 3.6 8 8 8h60.4l24.7 523c1.6 34.1 29.8 61 63.9 61h454c34.2 0 62.3-26.8 63.9-61l24.7-523H888c4.4 0 8-3.6 8-8v-32c0-17.7-14.3-32-32-32zM731.3 840H292.7l-24.2-512h487l-24.2 512z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="edit-ic-1"
+            >
+              <svg
+                fill="currentColor"
+                height="1.2em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1.2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+                <path
+                  d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a.996.996 0 000-1.41l-2.34-2.34a.996.996 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-iBkjds"
+            data-testid="card-content-1"
+          >
+            <img
+              alt="card-image-1"
+              class="sc-bczRLJ blDScb"
+              data-testid="card-image-1"
+              src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/japanese-style-beef-sesame-veggies-cb7e5629.jpg"
+            />
+            <div
+              class="sc-gsnTZi hhwjBW"
+            >
+              <h3
+                class="sc-dkzDqf knkAIX"
+                data-testid="card-title-1"
+              >
+                Japanese-Style Beef & Veggies
+              </h3>
+              <div
+                class="sc-hKMtZM"
+                data-testid="card-description-1"
+              >
+                with Rice & Coconut Sweet Chilli Mayo
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jqUVSM cWKDKa"
+      >
+        <div
+          class="sc-gKXOVf hUApTs"
+          data-testid="2"
+        >
+          <div
+            class="sc-eCYdqJ bjhUVy"
+          >
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="delete-ic-2"
+            >
+              <svg
+                fill="currentColor"
+                height="1.5em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1.5em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M360 184h-8c4.4 0 8-3.6 8-8v8h304v-8c0 4.4 3.6 8 8 8h-8v72h72v-80c0-35.3-28.7-64-64-64H352c-35.3 0-64 28.7-64 64v80h72v-72zm504 72H160c-17.7 0-32 14.3-32 32v32c0 4.4 3.6 8 8 8h60.4l24.7 523c1.6 34.1 29.8 61 63.9 61h454c34.2 0 62.3-26.8 63.9-61l24.7-523H888c4.4 0 8-3.6 8-8v-32c0-17.7-14.3-32-32-32zM731.3 840H292.7l-24.2-512h487l-24.2 512z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="edit-ic-2"
+            >
+              <svg
+                fill="currentColor"
+                height="1.2em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1.2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+                <path
+                  d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a.996.996 0 000-1.41l-2.34-2.34a.996.996 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-iBkjds"
+            data-testid="card-content-2"
+          >
+            <img
+              alt="card-image-2"
+              class="sc-bczRLJ blDScb"
+              data-testid="card-image-2"
+              src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/asian-pork-meatball-tacos-fc8c6b21.jpg"
+            />
+            <div
+              class="sc-gsnTZi hhwjBW"
+            >
+              <h3
+                class="sc-dkzDqf knkAIX"
+                data-testid="card-title-2"
+              >
+                Asian Pork Meatball Tacos
+              </h3>
+              <div
+                class="sc-hKMtZM"
+                data-testid="card-description-2"
+              >
+                with Sweet Chilli Glaze & Celery Slaw
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jqUVSM cWKDKa"
+      >
+        <div
+          class="sc-gKXOVf hUApTs"
+          data-testid="3"
+        >
+          <div
+            class="sc-eCYdqJ bjhUVy"
+          >
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="delete-ic-3"
+            >
+              <svg
+                fill="currentColor"
+                height="1.5em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1.5em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M360 184h-8c4.4 0 8-3.6 8-8v8h304v-8c0 4.4 3.6 8 8 8h-8v72h72v-80c0-35.3-28.7-64-64-64H352c-35.3 0-64 28.7-64 64v80h72v-72zm504 72H160c-17.7 0-32 14.3-32 32v32c0 4.4 3.6 8 8 8h60.4l24.7 523c1.6 34.1 29.8 61 63.9 61h454c34.2 0 62.3-26.8 63.9-61l24.7-523H888c4.4 0 8-3.6 8-8v-32c0-17.7-14.3-32-32-32zM731.3 840H292.7l-24.2-512h487l-24.2 512z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="edit-ic-3"
+            >
+              <svg
+                fill="currentColor"
+                height="1.2em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1.2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+                <path
+                  d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a.996.996 0 000-1.41l-2.34-2.34a.996.996 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-iBkjds"
+            data-testid="card-content-3"
+          >
+            <img
+              alt="card-image-3"
+              class="sc-bczRLJ blDScb"
+              data-testid="card-image-3"
+              src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/harissa-honey-chicken-a7d73d96.jpg"
+            />
+            <div
+              class="sc-gsnTZi hhwjBW"
+            >
+              <h3
+                class="sc-dkzDqf knkAIX"
+                data-testid="card-title-3"
+              >
+                Chermoula-Honey Chicken
+              </h3>
+              <div
+                class="sc-hKMtZM"
+                data-testid="card-description-3"
+              >
+                with Zesty Salsa, Garlic Rice & Almonds
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jqUVSM cWKDKa"
+      >
+        <div
+          class="sc-gKXOVf hUApTs"
+          data-testid="4"
+        >
+          <div
+            class="sc-eCYdqJ bjhUVy"
+          >
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="delete-ic-4"
+            >
+              <svg
+                fill="currentColor"
+                height="1.5em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1.5em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M360 184h-8c4.4 0 8-3.6 8-8v8h304v-8c0 4.4 3.6 8 8 8h-8v72h72v-80c0-35.3-28.7-64-64-64H352c-35.3 0-64 28.7-64 64v80h72v-72zm504 72H160c-17.7 0-32 14.3-32 32v32c0 4.4 3.6 8 8 8h60.4l24.7 523c1.6 34.1 29.8 61 63.9 61h454c34.2 0 62.3-26.8 63.9-61l24.7-523H888c4.4 0 8-3.6 8-8v-32c0-17.7-14.3-32-32-32zM731.3 840H292.7l-24.2-512h487l-24.2 512z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="edit-ic-4"
+            >
+              <svg
+                fill="currentColor"
+                height="1.2em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1.2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+                <path
+                  d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a.996.996 0 000-1.41l-2.34-2.34a.996.996 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-iBkjds"
+            data-testid="card-content-4"
+          >
+            <img
+              alt="card-image-4"
+              class="sc-bczRLJ blDScb"
+              data-testid="card-image-4"
+              src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/chorizo-potato-tray-bake-f377190c.jpg"
+            />
+            <div
+              class="sc-gsnTZi hhwjBW"
+            >
+              <h3
+                class="sc-dkzDqf knkAIX"
+                data-testid="card-title-4"
+              >
+                Chorizo & Veggie Traybake
+              </h3>
+              <div
+                class="sc-hKMtZM"
+                data-testid="card-description-4"
+              >
+                with Spinach, Fetta & Almonds
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jqUVSM cWKDKa"
+      >
+        <div
+          class="sc-gKXOVf hUApTs"
+          data-testid="5"
+        >
+          <div
+            class="sc-eCYdqJ bjhUVy"
+          >
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="delete-ic-5"
+            >
+              <svg
+                fill="currentColor"
+                height="1.5em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1.5em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M360 184h-8c4.4 0 8-3.6 8-8v8h304v-8c0 4.4 3.6 8 8 8h-8v72h72v-80c0-35.3-28.7-64-64-64H352c-35.3 0-64 28.7-64 64v80h72v-72zm504 72H160c-17.7 0-32 14.3-32 32v32c0 4.4 3.6 8 8 8h60.4l24.7 523c1.6 34.1 29.8 61 63.9 61h454c34.2 0 62.3-26.8 63.9-61l24.7-523H888c4.4 0 8-3.6 8-8v-32c0-17.7-14.3-32-32-32zM731.3 840H292.7l-24.2-512h487l-24.2 512z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="edit-ic-5"
+            >
+              <svg
+                fill="currentColor"
+                height="1.2em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1.2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+                <path
+                  d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a.996.996 0 000-1.41l-2.34-2.34a.996.996 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-iBkjds"
+            data-testid="card-content-5"
+          >
+            <img
+              alt="card-image-5"
+              class="sc-bczRLJ blDScb"
+              data-testid="card-image-5"
+              src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/chorizo-potato-tray-bake-f377190c.jpg"
+            />
+            <div
+              class="sc-gsnTZi hhwjBW"
+            >
+              <h3
+                class="sc-dkzDqf knkAIX"
+                data-testid="card-title-5"
+              >
+                Chorizo & Veggie Traybake
+              </h3>
+              <div
+                class="sc-hKMtZM"
+                data-testid="card-description-5"
+              >
+                with Spinach, Fetta & Almonds
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jqUVSM cWKDKa"
+      >
+        <div
+          class="sc-gKXOVf hUApTs"
+          data-testid="6"
+        >
+          <div
+            class="sc-eCYdqJ bjhUVy"
+          >
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="delete-ic-6"
+            >
+              <svg
+                fill="currentColor"
+                height="1.5em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1.5em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M360 184h-8c4.4 0 8-3.6 8-8v8h304v-8c0 4.4 3.6 8 8 8h-8v72h72v-80c0-35.3-28.7-64-64-64H352c-35.3 0-64 28.7-64 64v80h72v-72zm504 72H160c-17.7 0-32 14.3-32 32v32c0 4.4 3.6 8 8 8h60.4l24.7 523c1.6 34.1 29.8 61 63.9 61h454c34.2 0 62.3-26.8 63.9-61l24.7-523H888c4.4 0 8-3.6 8-8v-32c0-17.7-14.3-32-32-32zM731.3 840H292.7l-24.2-512h487l-24.2 512z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="edit-ic-6"
+            >
+              <svg
+                fill="currentColor"
+                height="1.2em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1.2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+                <path
+                  d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a.996.996 0 000-1.41l-2.34-2.34a.996.996 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-iBkjds"
+            data-testid="card-content-6"
+          >
+            <img
+              alt="card-image-6"
+              class="sc-bczRLJ blDScb"
+              data-testid="card-image-6"
+              src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/lemon-pepper-salmon-10974059.jpg"
+            />
+            <div
+              class="sc-gsnTZi hhwjBW"
+            >
+              <h3
+                class="sc-dkzDqf knkAIX"
+                data-testid="card-title-6"
+              >
+                Quick Lemon Pepper Salmon
+              </h3>
+              <div
+                class="sc-hKMtZM"
+                data-testid="card-description-6"
+              >
+                with Warm Dill & Parsley Potato Salad
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jqUVSM cWKDKa"
+      >
+        <div
+          class="sc-gKXOVf hUApTs"
+          data-testid="7"
+        >
+          <div
+            class="sc-eCYdqJ bjhUVy"
+          >
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="delete-ic-7"
+            >
+              <svg
+                fill="currentColor"
+                height="1.5em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1.5em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M360 184h-8c4.4 0 8-3.6 8-8v8h304v-8c0 4.4 3.6 8 8 8h-8v72h72v-80c0-35.3-28.7-64-64-64H352c-35.3 0-64 28.7-64 64v80h72v-72zm504 72H160c-17.7 0-32 14.3-32 32v32c0 4.4 3.6 8 8 8h60.4l24.7 523c1.6 34.1 29.8 61 63.9 61h454c34.2 0 62.3-26.8 63.9-61l24.7-523H888c4.4 0 8-3.6 8-8v-32c0-17.7-14.3-32-32-32zM731.3 840H292.7l-24.2-512h487l-24.2 512z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="edit-ic-7"
+            >
+              <svg
+                fill="currentColor"
+                height="1.2em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1.2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+                <path
+                  d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a.996.996 0 000-1.41l-2.34-2.34a.996.996 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-iBkjds"
+            data-testid="card-content-7"
+          >
+            <img
+              alt="card-image-7"
+              class="sc-bczRLJ blDScb"
+              data-testid="card-image-7"
+              src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/plant-based-chickpea-burrito-bowl-0411d2cf.jpg"
+            />
+            <div
+              class="sc-gsnTZi hhwjBW"
+            >
+              <h3
+                class="sc-dkzDqf knkAIX"
+                data-testid="card-title-7"
+              >
+                Plant-Based Chickpea Burrito Bowl
+              </h3>
+              <div
+                class="sc-hKMtZM"
+                data-testid="card-description-7"
+              >
+                with Pickled Onion Salsa & Cheeze
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jqUVSM cWKDKa"
+      >
+        <div
+          class="sc-gKXOVf hUApTs"
+          data-testid="8"
+        >
+          <div
+            class="sc-eCYdqJ bjhUVy"
+          >
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="delete-ic-8"
+            >
+              <svg
+                fill="currentColor"
+                height="1.5em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1.5em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M360 184h-8c4.4 0 8-3.6 8-8v8h304v-8c0 4.4 3.6 8 8 8h-8v72h72v-80c0-35.3-28.7-64-64-64H352c-35.3 0-64 28.7-64 64v80h72v-72zm504 72H160c-17.7 0-32 14.3-32 32v32c0 4.4 3.6 8 8 8h60.4l24.7 523c1.6 34.1 29.8 61 63.9 61h454c34.2 0 62.3-26.8 63.9-61l24.7-523H888c4.4 0 8-3.6 8-8v-32c0-17.7-14.3-32-32-32zM731.3 840H292.7l-24.2-512h487l-24.2 512z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="edit-ic-8"
+            >
+              <svg
+                fill="currentColor"
+                height="1.2em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1.2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+                <path
+                  d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a.996.996 0 000-1.41l-2.34-2.34a.996.996 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-iBkjds"
+            data-testid="card-content-8"
+          >
+            <img
+              alt="card-image-8"
+              class="sc-bczRLJ blDScb"
+              data-testid="card-image-8"
+              src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/potato-cauliflower-sage-gratin-45956770.jpg"
+            />
+            <div
+              class="sc-gsnTZi hhwjBW"
+            >
+              <h3
+                class="sc-dkzDqf knkAIX"
+                data-testid="card-title-8"
+              >
+                Potato, Cauliflower & Thyme Gratin
+              </h3>
+              <div
+                class="sc-hKMtZM"
+                data-testid="card-description-8"
+              >
+                with Pear Salad & Almonds
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jqUVSM cWKDKa"
+      >
+        <div
+          class="sc-gKXOVf hUApTs"
+          data-testid="9"
+        >
+          <div
+            class="sc-eCYdqJ bjhUVy"
+          >
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="delete-ic-9"
+            >
+              <svg
+                fill="currentColor"
+                height="1.5em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1.5em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M360 184h-8c4.4 0 8-3.6 8-8v8h304v-8c0 4.4 3.6 8 8 8h-8v72h72v-80c0-35.3-28.7-64-64-64H352c-35.3 0-64 28.7-64 64v80h72v-72zm504 72H160c-17.7 0-32 14.3-32 32v32c0 4.4 3.6 8 8 8h60.4l24.7 523c1.6 34.1 29.8 61 63.9 61h454c34.2 0 62.3-26.8 63.9-61l24.7-523H888c4.4 0 8-3.6 8-8v-32c0-17.7-14.3-32-32-32zM731.3 840H292.7l-24.2-512h487l-24.2 512z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="edit-ic-9"
+            >
+              <svg
+                fill="currentColor"
+                height="1.2em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1.2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+                <path
+                  d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a.996.996 0 000-1.41l-2.34-2.34a.996.996 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-iBkjds"
+            data-testid="card-content-9"
+          >
+            <img
+              alt="card-image-9"
+              class="sc-bczRLJ blDScb"
+              data-testid="card-image-9"
+              src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/cheesy-bbq-baked-beans-047f2e7f.jpg"
+            />
+            <div
+              class="sc-gsnTZi hhwjBW"
+            >
+              <h3
+                class="sc-dkzDqf knkAIX"
+                data-testid="card-title-9"
+              >
+                Cheesy BBQ Baked Beans
+              </h3>
+              <div
+                class="sc-hKMtZM"
+                data-testid="card-description-9"
+              >
+                with Sweetcorn, Herby Garlic Bread & Jalapeños
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jqUVSM cWKDKa"
+      >
+        <div
+          class="sc-gKXOVf hUApTs"
+          data-testid="10"
+        >
+          <div
+            class="sc-eCYdqJ bjhUVy"
+          >
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="delete-ic-10"
+            >
+              <svg
+                fill="currentColor"
+                height="1.5em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1.5em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M360 184h-8c4.4 0 8-3.6 8-8v8h304v-8c0 4.4 3.6 8 8 8h-8v72h72v-80c0-35.3-28.7-64-64-64H352c-35.3 0-64 28.7-64 64v80h72v-72zm504 72H160c-17.7 0-32 14.3-32 32v32c0 4.4 3.6 8 8 8h60.4l24.7 523c1.6 34.1 29.8 61 63.9 61h454c34.2 0 62.3-26.8 63.9-61l24.7-523H888c4.4 0 8-3.6 8-8v-32c0-17.7-14.3-32-32-32zM731.3 840H292.7l-24.2-512h487l-24.2 512z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="edit-ic-10"
+            >
+              <svg
+                fill="currentColor"
+                height="1.2em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1.2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+                <path
+                  d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a.996.996 0 000-1.41l-2.34-2.34a.996.996 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-iBkjds"
+            data-testid="card-content-10"
+          >
+            <img
+              alt="card-image-10"
+              class="sc-bczRLJ blDScb"
+              data-testid="card-image-10"
+              src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/spiced-chicken-bocconcini-salad-b45b95ca.jpg"
+            />
+            <div
+              class="sc-gsnTZi hhwjBW"
+            >
+              <h3
+                class="sc-dkzDqf knkAIX"
+                data-testid="card-title-10"
+              >
+                Chicken & Bocconcini Salad with Semi-Dried Tomatoes & Pesto
+              </h3>
+              <div
+                class="sc-hKMtZM"
+                data-testid="card-description-10"
+              >
+                Pre-Prepped | Three Steps | Ready in 15
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jqUVSM cWKDKa"
+      >
+        <div
+          class="sc-gKXOVf hUApTs"
+          data-testid="11"
+        >
+          <div
+            class="sc-eCYdqJ bjhUVy"
+          >
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="delete-ic-11"
+            >
+              <svg
+                fill="currentColor"
+                height="1.5em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1.5em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M360 184h-8c4.4 0 8-3.6 8-8v8h304v-8c0 4.4 3.6 8 8 8h-8v72h72v-80c0-35.3-28.7-64-64-64H352c-35.3 0-64 28.7-64 64v80h72v-72zm504 72H160c-17.7 0-32 14.3-32 32v32c0 4.4 3.6 8 8 8h60.4l24.7 523c1.6 34.1 29.8 61 63.9 61h454c34.2 0 62.3-26.8 63.9-61l24.7-523H888c4.4 0 8-3.6 8-8v-32c0-17.7-14.3-32-32-32zM731.3 840H292.7l-24.2-512h487l-24.2 512z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="edit-ic-11"
+            >
+              <svg
+                fill="currentColor"
+                height="1.2em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1.2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+                <path
+                  d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a.996.996 0 000-1.41l-2.34-2.34a.996.996 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-iBkjds"
+            data-testid="card-content-11"
+          >
+            <img
+              alt="card-image-11"
+              class="sc-bczRLJ blDScb"
+              data-testid="card-image-11"
+              src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/malaysian-tofu-noodle-stir-fry-914ba9f2.jpg"
+            />
+            <div
+              class="sc-gsnTZi hhwjBW"
+            >
+              <h3
+                class="sc-dkzDqf knkAIX"
+                data-testid="card-title-11"
+              >
+                Malaysian Tofu & Noodle Stir-Fry
+              </h3>
+              <div
+                class="sc-hKMtZM"
+                data-testid="card-description-11"
+              >
+                with Veggies & Fried Egg
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jqUVSM cWKDKa"
+      >
+        <div
+          class="sc-gKXOVf hUApTs"
+          data-testid="12"
+        >
+          <div
+            class="sc-eCYdqJ bjhUVy"
+          >
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="delete-ic-12"
+            >
+              <svg
+                fill="currentColor"
+                height="1.5em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1.5em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M360 184h-8c4.4 0 8-3.6 8-8v8h304v-8c0 4.4 3.6 8 8 8h-8v72h72v-80c0-35.3-28.7-64-64-64H352c-35.3 0-64 28.7-64 64v80h72v-72zm504 72H160c-17.7 0-32 14.3-32 32v32c0 4.4 3.6 8 8 8h60.4l24.7 523c1.6 34.1 29.8 61 63.9 61h454c34.2 0 62.3-26.8 63.9-61l24.7-523H888c4.4 0 8-3.6 8-8v-32c0-17.7-14.3-32-32-32zM731.3 840H292.7l-24.2-512h487l-24.2 512z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-jSMfEi ebJwAT"
+              data-testid="edit-ic-12"
+            >
+              <svg
+                fill="currentColor"
+                height="1.2em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1.2em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+                <path
+                  d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a.996.996 0 000-1.41l-2.34-2.34a.996.996 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-iBkjds"
+            data-testid="card-content-12"
+          >
+            <img
+              alt="card-image-12"
+              class="sc-bczRLJ blDScb"
+              data-testid="card-image-12"
+              src="https://img.hellofresh.com/c_fill,f_auto,fl_lossy,h_432,q_auto,w_768/hellofresh_s3/image/aussie-chicken-roast-veggie-salad-7ad18068.jpg"
+            />
+            <div
+              class="sc-gsnTZi hhwjBW"
+            >
+              <h3
+                class="sc-dkzDqf knkAIX"
+                data-testid="card-title-12"
+              >
+                Aussie Chicken & Roast Veggie Toss
+              </h3>
+              <div
+                class="sc-hKMtZM"
+                data-testid="card-description-12"
+              >
+                with Garlic Sauce & Pepitas
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
