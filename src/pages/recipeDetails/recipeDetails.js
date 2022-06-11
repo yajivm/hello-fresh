@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { useLocation, useNavigate } from "react-router-dom";
-import { recipes } from "../../mockData/data";
+import { recipes } from "../../mockData/recipeData";
 import { ContentWrapper, Container, BannerImageWrapper, Image, Text, ListWrapper, List, ListItem, WhiteBox, TitleWrapper, GridWrapper, Grid, IngrediantsWrapper, InstructionWrapper, Ingrediants, IngrediantsInnerWrapper, BreadCrumbWrapper } from './recipeDetails.styles'
 
 const RecipeDetails = () => {

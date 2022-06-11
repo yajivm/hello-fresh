@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Card from '../../components/Card';
-import { recipes } from "../../mockData/data";
+import { recipes } from "../../mockData/recipeData";
 import { useNavigateParams } from "../../utils/helper";
 import { DEFAULT_PAGE_NUMBER, ITEMS_COUNT_PER_PAGE } from '../../utils/constant';
 import { BackIc, ForwardIc } from "../Icons";
@@ -37,7 +37,7 @@ const Recipe = () => {
     } else {
       recipesData = recipes;
     }
-    console.log('=====>', recipesData.length)
+
     setRecipeList(recipesData);
     setShowPagination(paginationStaus);
   }

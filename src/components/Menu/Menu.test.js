@@ -13,11 +13,11 @@ describe('Menu', () => {
   it('should remove the card when click the delete icon over the card', () => {
     render(<Menu />)
 
-    expect(screen.getByTestId('card-content-0')).toBeInTheDocument()
-    expect(screen.getByTestId('delete-ic-0')).toBeInTheDocument();
+    expect(screen.getByTestId('card-content-67')).toBeInTheDocument();
+    expect(screen.getByTestId('delete-ic-67')).toBeInTheDocument();
 
-    fireEvent.click(screen.getByTestId('delete-ic-0'))
+    fireEvent.click(screen.getByTestId('delete-ic-67'))
 
-    expect(screen.queryByTestId('card-content-0')).not.toBeInTheDocument()
+    expect(screen.queryByTestId('card-content-67')).not.toBeInTheDocument()
   })
 })
