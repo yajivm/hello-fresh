@@ -43,20 +43,20 @@ jobs:
           path: ./build
 
 # Deploy Jobs
-
+deploy:
   name: Deploy
-  runs-on: unbuntu-latest
+  runs-on: ubuntu-latest
   needs: build
 
   steps:
-    - name: Download Artifact
+    - name: Download artifact
       uses: actions/download-artifact@v2
       with:
         name: production-files
         path: ./build
 
-    - name: Deploy to pages
-      uses: peaceris/actions-gh-pages@v3
-      with:
-        github_tokeen: ${{ secrets.GH_ACCESS_TOKEN }}
-        publish_dir: ./build
+    - name: Deploy to gh pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GH_ACCESS_TOKEN }}
+          publish_dir: ./build
