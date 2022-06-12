@@ -1,0 +1,65 @@
+# Triggers
+
+on:
+  push:
+    branches:
+      - main
+
+  pull-request:
+    branches:
+      - main
+
+# Functions
+jobs:
+
+  # Build Jobs
+  build:
+
+    # Name of the job
+    name: Build
+
+    # The OS to run the job
+    runs-on: unbuntu-latest
+
+    # Steps
+    - name: Checkout Code
+      uses: actions/checkout@v2
+
+    - name: Install node 16
+      uses: actions/setup-node@v1
+      with:
+        node-version: 16.x
+      
+    - name: Install NPM Dependencies
+      run: yarn
+
+    - name: Build Project
+      run: yarn build
+
+    - name: Upload Artifact in order to deploy
+      uses: actions/upload-artifact@v2
+      with:
+        name: production-files
+        path: ./build
+
+# Deploy Jobs
+
+  name: Deploy
+  runs-on: unbuntu-latest
+  needs: build
+
+  steps:
+    - name: Download Artifact
+      uses: actions/download-artifact@v2
+      with:
+        name: production-files
+        path: ./build
+
+    - name: Deploy to pages
+      uses: peaceris/actions-gh-pages@v3
+      with:
+        github_tokeen: ${{ secrets.GH_ACCESS_TOKEN }}
+        publish_dir: ./build
+
+
+
