@@ -14,9 +14,11 @@ jobs:
   # Build Jobs
   build:
 
+    # Name of the job
     name: Build
 
-    runs-on: unbuntu-latest
+    # The OS to run the job
+    runs-on: ubuntu-latest
 
     # Steps
     - name: Checkout Code
