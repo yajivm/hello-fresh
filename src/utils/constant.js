@@ -1,6 +1,7 @@
-const MENU_PATH = '/';
-const RCEIPIE_PATH = '/recipes-list'
-const RECIPE_DETAILS = '/recipe-details'
+const BASE_URL = '/hello-fresh';
+const MENU_PATH = `${BASE_URL}/`;
+const RCEIPIE_PATH = `${BASE_URL}/recipes-list`;
+const RECIPE_DETAILS = `${BASE_URL}/recipe-details`;
 
 const NAV_LIST = [
   {

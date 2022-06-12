@@ -18,7 +18,7 @@ const RecipeDetails = () => {
     setRecipeDetails(details[0]);
   }, [search]);
 
-  const navigateToRecipe = () => navigate("/recipes-list");
+  const navigateToRecipe = () => navigate("/hello-fresh/recipes-list");
   
   return (
     <ContentWrapper>

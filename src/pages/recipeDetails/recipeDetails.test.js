@@ -25,6 +25,6 @@ describe('Recipe Details', () => {
 
     fireEvent.click(screen.getByTestId('recipe-bread-crumb'))
 
-    expect(mockNavigate).toHaveBeenCalledWith('/recipes-list');
+    expect(mockNavigate).toHaveBeenCalledWith('/hello-fresh/recipes-list');
   })
 })
