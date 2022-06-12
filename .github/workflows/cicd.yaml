@@ -11,7 +11,7 @@ on:
 # Functions
 jobs:
 
-  # Build Jobs
+  # Build Job
   build:
 
     # Name of the job
@@ -21,25 +21,26 @@ jobs:
     runs-on: ubuntu-latest
 
     # Steps
-    - name: Checkout Code
-      uses: actions/checkout@v2
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
 
-    - name: Install node 16
-      uses: actions/setup-node@v1
-      with:
-        node-version: 16.x
+      - name: Install node 16
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16.x
 
-    - name: Install NPM Dependencies
-      run: yarn
+      - name: Install NPM Dependencies
+        run: yarn
 
-    - name: Build Project
-      run: yarn build
+      - name: Build Project
+        run: yarn build
 
-    - name: Upload Artifact in order to deploy
-      uses: actions/upload-artifact@v2
-      with:
-        name: production-files
-        path: ./build
+      - name: Upload artifact in order to deploy
+        uses: actions/upload-artifact@v2
+          with:
+            name: production-files
+            path: ./build
 
 # Deploy Jobs
 
