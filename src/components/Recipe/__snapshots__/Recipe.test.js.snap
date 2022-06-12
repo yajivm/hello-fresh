@@ -3,16 +3,16 @@
 exports[`Recipe should render component 1`] = `
 <div>
   <div
-    class="sc-iqcoie"
+    class="sc-breuTD"
   >
     <div
-      class="sc-ftvSup hpKqrZ"
+      class="sc-kDDrLX fvofKy"
     >
       <div
-        class="sc-papXJ fKyqwj"
+        class="sc-iqcoie kyVYqQ"
       >
         <div
-          class="sc-jqUVSM hrfnpc"
+          class="sc-crXcEl gGybZp"
         >
           <div
             class="sc-gKXOVf hdSzut"
@@ -92,7 +92,7 @@ exports[`Recipe should render component 1`] = `
           </div>
         </div>
         <div
-          class="sc-jqUVSM hrfnpc"
+          class="sc-crXcEl gGybZp"
         >
           <div
             class="sc-gKXOVf hdSzut"
@@ -172,7 +172,7 @@ exports[`Recipe should render component 1`] = `
           </div>
         </div>
         <div
-          class="sc-jqUVSM hrfnpc"
+          class="sc-crXcEl gGybZp"
         >
           <div
             class="sc-gKXOVf hdSzut"
@@ -252,7 +252,7 @@ exports[`Recipe should render component 1`] = `
           </div>
         </div>
         <div
-          class="sc-jqUVSM hrfnpc"
+          class="sc-crXcEl gGybZp"
         >
           <div
             class="sc-gKXOVf hdSzut"
@@ -332,7 +332,7 @@ exports[`Recipe should render component 1`] = `
           </div>
         </div>
         <div
-          class="sc-jqUVSM hrfnpc"
+          class="sc-crXcEl gGybZp"
         >
           <div
             class="sc-gKXOVf hdSzut"
@@ -414,10 +414,12 @@ exports[`Recipe should render component 1`] = `
       </div>
     </div>
     <div
-      class="sc-crXcEl kpRCog"
+      class="sc-ftvSup bWaAUx"
+      data-testid="pagination-wrapper"
     >
       <div
-        class="sc-evZas laGXLz"
+        class="sc-papXJ ifiNAn"
+        data-testid="back-ic"
       >
         <svg
           fill="currentColor"
@@ -436,12 +438,14 @@ exports[`Recipe should render component 1`] = `
         </svg>
       </div>
       <p
-        class="sc-breuTD iOxyJC"
+        class="sc-jqUVSM eugsYg"
+        data-testid="page-number-title"
       >
         1
       </p>
       <div
-        class="sc-evZas eBbTJD"
+        class="sc-papXJ gIUWur"
+        data-testid="forward-ic"
       >
         <svg
           fill="currentColor"

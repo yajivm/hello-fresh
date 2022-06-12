@@ -1,11 +1,12 @@
 import React, { useState, useEffect } from "react";
 import Card from '../../components/Card';
+import Pagination from '../Pagination';
 import { recipes } from "../../mockData/recipeData";
 import { useNavigateParams } from "../../utils/helper";
 import { DEFAULT_PAGE_NUMBER, ITEMS_COUNT_PER_PAGE } from '../../utils/constant';
-import { BackIc, ForwardIc } from "../Icons";
-import { GridWrapper, GridContainer, Grid, GreyText, Container, PaginatioNumber, PaginationWrapper, Icon } from './Recipe.styles';
+import { GridWrapper, GridContainer, Grid, GreyText, Container } from './Recipe.styles';
 
+const deletedRecipesId = [];
 const Recipe = () => {
   const navigate = useNavigateParams();
   const [recipeList, setRecipeList] = useState([]);
@@ -15,10 +16,11 @@ const Recipe = () => {
   const [showForwardIc, setShowForwardIc] = useState(!(recipeList.length > ITEMS_COUNT_PER_PAGE));
 
   const onClickCard = id => {
-    navigate(`/recipe-details`, `id=${id}`);
+    navigate(`/hello-fresh/recipe-details`, `id=${id}`);
   }
 
   const deleteCard = id => {
+    deletedRecipesId.push(id);
     const filteredData = recipeList.filter(item => item.id !== id);
     setRecipeList(filteredData);
   }
@@ -70,7 +72,8 @@ const Recipe = () => {
       setShowForwardIc(false)
     } else setShowForwardIc(true)
 
-    setRecipeList(recipesData);
+    const filteredData = recipesData.filter(item => !deletedRecipesId.includes(item.id))
+    setRecipeList(filteredData);
     setPageNumber(page);
   }
 
@@ -106,15 +109,13 @@ const Recipe = () => {
         </GridContainer>
       </GridWrapper>
       {showPagination && (
-        <PaginationWrapper>
-          <Icon onClick={() => onClickPagination('Back')} isIcHidden={showBackIc}>
-            <BackIc />
-          </Icon>
-          <PaginatioNumber>{pageNumber}</PaginatioNumber>
-          <Icon onClick={() => onClickPagination('Forward')} isIcHidden={showForwardIc}>
-            <ForwardIc />
-          </Icon>
-        </PaginationWrapper>
+        <Pagination
+          page={pageNumber}
+          onClickBackIc={() => onClickPagination('Back')}
+          onClickForwardIc={() => onClickPagination('Forward')}
+          showForwardIc={showForwardIc}
+          showBackIc={showBackIc}
+        />
       )}
     </Container>
   )

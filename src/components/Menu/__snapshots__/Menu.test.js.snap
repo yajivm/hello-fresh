@@ -3,13 +3,15 @@
 exports[`Menu should render component 1`] = `
 <div>
   <div
-    class="sc-iqcoie"
+    class="sc-breuTD"
   >
     <div
-      class="sc-crXcEl kpRCog"
+      class="sc-ftvSup bWaAUx"
+      data-testid="pagination-wrapper"
     >
       <div
-        class="sc-evZas laGXLz"
+        class="sc-papXJ ifiNAn"
+        data-testid="back-ic"
       >
         <svg
           fill="currentColor"
@@ -28,12 +30,14 @@ exports[`Menu should render component 1`] = `
         </svg>
       </div>
       <p
-        class="sc-breuTD iOxyJC"
+        class="sc-jqUVSM eugsYg"
+        data-testid="page-number-title"
       >
         Menus for Jul 16-Jul 22
       </p>
       <div
-        class="sc-evZas eBbTJD"
+        class="sc-papXJ gIUWur"
+        data-testid="forward-ic"
       >
         <svg
           fill="currentColor"
@@ -53,13 +57,13 @@ exports[`Menu should render component 1`] = `
       </div>
     </div>
     <div
-      class="sc-ftvSup hpKqrZ"
+      class="sc-kDDrLX fvofKy"
     >
       <div
-        class="sc-papXJ fkdrml"
+        class="sc-iqcoie larHiW"
       >
         <div
-          class="sc-jqUVSM cWKDKa"
+          class="sc-crXcEl gkNCdj"
         >
           <div
             class="sc-gKXOVf hUApTs"
@@ -139,7 +143,7 @@ exports[`Menu should render component 1`] = `
           </div>
         </div>
         <div
-          class="sc-jqUVSM cWKDKa"
+          class="sc-crXcEl gkNCdj"
         >
           <div
             class="sc-gKXOVf hUApTs"
@@ -219,7 +223,7 @@ exports[`Menu should render component 1`] = `
           </div>
         </div>
         <div
-          class="sc-jqUVSM cWKDKa"
+          class="sc-crXcEl gkNCdj"
         >
           <div
             class="sc-gKXOVf hUApTs"
@@ -299,7 +303,7 @@ exports[`Menu should render component 1`] = `
           </div>
         </div>
         <div
-          class="sc-jqUVSM cWKDKa"
+          class="sc-crXcEl gkNCdj"
         >
           <div
             class="sc-gKXOVf hUApTs"
@@ -379,7 +383,7 @@ exports[`Menu should render component 1`] = `
           </div>
         </div>
         <div
-          class="sc-jqUVSM cWKDKa"
+          class="sc-crXcEl gkNCdj"
         >
           <div
             class="sc-gKXOVf hUApTs"

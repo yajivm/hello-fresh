@@ -1,9 +1,9 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect, useState } from 'react';
-import { BackIc, ForwardIc } from "../Icons";
 import { menus } from "../../mockData/menuData";
 import Card from "../Card";
-import { GridWrapper, GridContainer, Grid, GreyText, Container, PaginatioNumber, PaginationWrapper, Icon } from './Menu.styles';
+import Pagination from '../Pagination';
+import { GridWrapper, GridContainer, Grid, GreyText, Container } from './Menu.styles';
 
 const weekList = Object.keys(menus);
 const getMenusList = (count) => {
@@ -68,15 +68,13 @@ const Menu = () => {
 
   return (
     <Container>
-      <PaginationWrapper>
-        <Icon onClick={() => onClickPagination('Back')} isIcHidden={weekDaysCount > 1}>
-          <BackIc />
-        </Icon>
-        <PaginatioNumber>{weekTitle}</PaginatioNumber>
-        <Icon onClick={() => onClickPagination('Forward')} isIcHidden={showForwardIc <= weekList.length - 1}>
-          <ForwardIc />
-        </Icon>
-      </PaginationWrapper>
+      <Pagination
+        page={weekTitle}
+        onClickBackIc={() => onClickPagination('Back')}
+        onClickForwardIc={() => onClickPagination('Forward')}
+        showForwardIc={showForwardIc <= weekList.length - 1}
+        showBackIc={weekDaysCount > 1}
+      />
       <GridWrapper>
         {
           (menuList && menuList.length > 0) ?
