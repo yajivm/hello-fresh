@@ -38,9 +38,9 @@ jobs:
 
       - name: Upload artifact in order to deploy
         uses: actions/upload-artifact@v2
-          with:
-            name: production-files
-            path: ./build
+        with:
+          name: production-files
+          path: ./build
 
 # Deploy Jobs
 
